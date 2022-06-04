@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-container {
+    background-color: white;
+    padding: 24px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.flat-name {
+    color: #f19116;
+    font-size: 24px;
+    font-family: "Bree Serif";
+
+}
+
+.flat-caption {
+    color: #7b8794;
+    font-size: 18px;
+    font-family: "Bree Serif";
+
+}
+
+.button-container {
+    text-align: center;
+}
+
+.button {
+    background-color: #f19116;
+    font-size: 14px;
+    color: white;
+    border-radius: 9px;
+    border-width: 0px;
+    width: 106px;
+    height: 38px;
+}
+
+.flat-lists-bg-container {
+    background-color: #222222;
+}
+
+.flat-name-container {
+    padding: 20px;
+}
+
+.flat-image {
+    width: 92px;
+    height: 176px;
+}
+
+.flats-container {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 6px;
+}
+
+.flats-card {
+    margin-left: 10px;
+}
+
+.flat-name-text {
+    color: #0f0e46;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
+
+.flat-decription {
+    color: #7b8794;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+
+}
+
+.flats-last-container {
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 6px;
+}
+
+.back-button-container {
+    padding: 10px;
+}
+
+.horizontal-line {
+    background-color: white;
+}
+
+.flats-bg-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flat-lists-details-container {
+    background-color: #222222;
+
+}
+
+.flat-address {
+    color: white;
+    font-size: 13px;
+    font-family: "Bree Serif";
+    margin-top: 11px;
+}
+
+.flat-location-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.flat-rent {
+    color: #f19116;
+    font-size: 28px;
+    padding: 16px;
+    font-family: "Bree Serif";
+}
+
+.flat-location-container {
+    margin-left: 15px;
+}
+
+.flat-description-page {
+    color: white;
+    font-size: 13px;
+    font-family: "Bree Serif";
+    padding: 16px;
+}
+
+.buttons-container {
+    margin-left: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.flats-one-bg-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.flats-two-bg-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    background-size: cover;
+    height: 100vh;
+}
